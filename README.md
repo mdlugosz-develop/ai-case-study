@@ -8,15 +8,17 @@
 
 * Gabriel Pereya and Winston Weinberg
 
-* How did the idea for the company (or project) come about?
+* The idea for the company came about when Winston Weinberg realized that transactional work and litigation have been getting complex. There could be hundres of thousends of contracts to go through for a international merger aswell as millions of emails. He realized that with the helo of AI lawyars can spend less time going throgh document and more time making decisions for the clients.
 
-* How is the company funded? How much funding have they received?
+* $80M in Series B funding at a $715M valuation
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+### What specific problem is the company or project trying to solve?
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+The company is trying to solve the problem of law offices spending hundreds of hours sifting through and drafting legal texts 
+
+### Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
